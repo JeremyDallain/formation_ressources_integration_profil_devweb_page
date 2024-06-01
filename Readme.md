@@ -1,5 +1,10 @@
 # Consignes Techniques du projet
 
+## Responsive
+- Il a deux versions :
+  - mobile (moins de 750px)
+  - desktop (750px et plus)
+
 ## Google Fonts utilisées :
 
 - "Ubuntu" pour les textes du projet.
